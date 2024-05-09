@@ -57,6 +57,12 @@
 
 ## :hammer_and_wrench: Languages and Tools :
 <p align="left">
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
+  </a>
+  <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pnpm/pnpm-original.svg" alt="pnpm" width="40" height="40"/>
+  </a>
   <!-- <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a> -->
