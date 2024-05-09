@@ -1,8 +1,10 @@
-## Hi👋, I'm Bishnupada Maity
-<p align="center" >
+
+<center align="center" >
   
-A Passionate Developer from India.
+<p>
+  ## Hi👋, I'm Bishnupada Maity
 </p>
+</center>
 
 <!--
 **bishnupadamaity/bishnupadamaity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
