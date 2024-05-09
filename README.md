@@ -47,7 +47,7 @@
 
 ## :woman_technologist: Connect With Me :
 <p align="left">
-  <a href="https://linkedin.com/in/bishnupadamaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/    rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishnupadamaity" height="30" width="40" />
+  <a href="https://linkedin.com/in/bishnupadamaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg" alt="bishnupadamaity" height="30" width="40" />
   </a>
   <a href="mailto:bishnupdm.1@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/5968/5968534.png" alt="bishnupdm.1@gmail.com" height="30" width="30" />
   </a>
